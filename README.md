@@ -1,1 +1,3 @@
-Oracle2Kafka
+
+本项目用于将Oracle中的数据推送到kafka指定topic中
+在conf.properties中配置你的数据库和kafka信息
